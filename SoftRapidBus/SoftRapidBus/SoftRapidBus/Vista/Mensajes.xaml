@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SoftRapidBus.Vista.Mensajes">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Padding="15">
+                <Label Text="Envío de mensaje" FontSize="20" FontAttributes="Bold" TextColor="Blue"
+                   HorizontalOptions="Center" Margin="20"></Label>
+                <Image Source="RapidBuss.png" Scale="0.6" Margin="20" />
+                <Label Text="Celular" FontSize="Medium"></Label>
+                <Entry x:Name="txtCelular" Text="998 172 654"/>
+
+                <Label Text="Mensaje" FontSize="Medium"></Label>
+                <Entry x:Name="txtMen" />
+                <Button x:Name="btnEnvio" Text="Info" BackgroundColor="#1690F4" TextColor="White"
+                    Clicked="btnEnvio_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

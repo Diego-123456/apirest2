@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#ffffff40"
+             x:Class="SoftRapidBus.Vista.Listar_Terminales">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="BarraMenu" Text="Agregar" Clicked="BarraMenu_Clicked"  />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ListView x:Name="Listado" HasUnevenRows="True"                                                
+                  SeparatorVisibility="Default" SeparatorColor="Blue" Margin="20" >
+            <ListView.Header>
+                <StackLayout>
+                    <Label Text="Terminales" FontSize="Large" HorizontalOptions="Center" TextColor="Red"/>
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem x:Name="BtnEliminar" Text="Eliminar" IsDestructive="True"
+                                      Clicked="BtnEliminar_Clicked"
+                                      CommandParameter="{Binding .}"
+                                      >
+                            </MenuItem>
+                        </ViewCell.ContextActions>
+
+                        <StackLayout Padding="10">
+
+                            <Label Text="{Binding nom_ter, StringFormat='Nombre del Terminal :  {0}'}" FontSize="Medium" TextColor="Blue"/>
+                            <Label Text="{Binding dir_ter,  StringFormat='Direccion :  {0}'}" FontSize="Medium" TextColor="Blue" />
+                            <Label Text="{Binding cel_ter, StringFormat='Celular :  {0}'}" FontSize="Medium" TextColor="Blue"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </ContentPage.Content>
+</ContentPage>

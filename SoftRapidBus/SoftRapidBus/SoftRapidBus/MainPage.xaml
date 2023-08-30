@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SoftRapidBus.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="Barra" Clicked="Barra_Clicked" Text="SALTAR" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <Label Text="Terminal Terrestre" TextColor="red" FontSize="23" HorizontalTextAlignment="Center"
+               Margin="5,20,0,0"
+               />
+        <Label Text="versión 1.0"
+               FontSize="16" 
+               HorizontalTextAlignment="Center"
+               />
+
+        <Image Source="RapidBuss.png"  Scale="0.6" />
+
+        <Label Text="Elige entre una amplia lista de empresas de transporte y compra tus pasajes de bus con nosotros" TextColor="Black" Margin="25,-45,0,0" FontSize="Body" Scale="0.9"/>
+
+        <Button Text="ÚNETE" TextColor="White" Clicked="Button_Clicked" Margin="40,20,40,0" Background="RED" FontFamily="Lobster-Regular" FontSize="Large" CornerRadius="10"/>
+
+
+        <Button x:Name="btnIniciar" Clicked="btnIniciar_Clicked"  BackgroundColor="Transparent" Text="INICIAR SESIÓN" TextColor="Black" FontSize="Large" Margin="80,20,80,0" CornerRadius="10"/>
+
+
+        <Label Text="Correo : RapidBus@gmail.com" HorizontalOptions="Center"/>
+        <Label Text="Telefono : 977 686 308" HorizontalOptions="Center"/>
+
+
+
+
+    </StackLayout>
+
+</ContentPage>

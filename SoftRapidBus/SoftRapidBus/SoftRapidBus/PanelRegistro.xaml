@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SoftRapidBus.PanelRegistro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid VerticalOptions="Center" Margin="40,40" HeightRequest="600">
+                    <Frame CornerRadius="20" BackgroundColor="White">
+
+                        <StackLayout Spacing="20" Padding="15">
+                            <Label Text="REGISTRATE" HorizontalOptions="Center" TextColor="Black" FontSize="Large"/>
+                            <Image Source="user.png" HeightRequest="100" VerticalOptions="End"/>
+                            <Entry x:Name="entryNombre" TextColor="Blue" Placeholder="Nombre" 
+                       PlaceholderColor="#bababa" FontSize="16"/>
+                            <Entry x:Name="entryEmail" TextColor="Blue" Placeholder="Correo" 
+                       PlaceholderColor="#bababa" FontSize="16"/>
+                            <Entry IsPassword="True" TextColor="Blue"  Placeholder="contraseña"
+                       PlaceholderColor="#bababa" FontSize="16" x:Name="entryPassword"/>
+
+                            <Button x:Name="btnRegistrar" FontSize="Medium" BorderColor="Black" 
+                                FlexLayout.AlignSelf="Stretch" Margin="20" CornerRadius="10" 
+                                HorizontalOptions="CenterAndExpand" Text="REGISTRAR"
+                                Clicked="btnRegistrar_Clicked" TextColor="White" BackgroundColor="#3399ff"/>
+
+                            <Label x:Name="label"
+                               Text="¿Ya tienes una Cuenta?"  TextColor="Blue" FontAttributes="Bold"  FontSize="Micro"
+                               Margin="0,20,0,0" />
+
+
+                            <Button x:Name="btnIniciar" FontSize="Micro" BorderColor="Black" 
+                                FlexLayout.AlignSelf="Stretch"  CornerRadius="25" 
+                                HorizontalOptions="EndAndExpand" Text="INICIA SESIÓN"
+                                Clicked="btnIniciar_Clicked" TextColor="Black" FontAttributes="Bold" BackgroundColor="#FF040C" Margin="-10,-48,0,0"/>
+
+                        </StackLayout>
+                    </Frame>
+                </Grid>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

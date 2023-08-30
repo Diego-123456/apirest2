@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#ffffff40"
+             x:Class="SoftRapidBus.Vista.Editar_Servicio">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label Text="Actualización de Servicios" HorizontalOptions="Center" FontSize="Large" TextColor="Blue" />
+            <Label Margin="0,40,0,0" Text="Id de Servicio " FontSize="Medium" TextColor="Blue"/>
+            <Entry x:Name="txtId" IsReadOnly="true" TextColor="Red"/>
+            <Label Text="Tipo de Servicio " FontSize="Medium" TextColor="Blue"/>
+            <Entry x:Name="txtNom" TextColor="Black" />
+            <Label Text="Precio Del Pasaje" FontSize="Medium" TextColor="Blue"/>
+            <Entry x:Name="txtPrecio" TextColor="Black" />
+            <Label Text="Numero de Asiento" FontSize="Medium" TextColor="Blue"/>
+            <Entry x:Name="txtNum" TextColor="Black"/>
+
+            <Button Margin="0,20" x:Name="BtnModi" Clicked="BtnModi_Clicked" Text="Actualizar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

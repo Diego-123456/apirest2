@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SoftRapidBus.Vista.Registrar_Servicios">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="Barra" Text="Grabar" Clicked="Barra_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label Text="Tipo de Servicio " FontSize="Medium"/>
+            <Entry x:Name="txtNom" />
+            <Label Text="Precio Del Pasaje" FontSize="Medium"/>
+            <Entry x:Name="txtPrecio" />
+            <Label Text="Numero de Asiento" FontSize="Medium"/>
+            <Entry x:Name="txtNum"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

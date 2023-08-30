@@ -1,0 +1,100 @@
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.deps.json
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.dll
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\ref\SoftRapidBus.dll
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.pdb
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.AssemblyReference.cache
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfoInputs.cache
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfo.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.CoreCompileInputs.cache
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.dll
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\ref\SoftRapidBus.dll
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.pdb
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Entrar.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\PanelRegistro.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Terminales.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Servicios.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Servicios.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Terminal.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Editar_Servicio.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\PresentacionPage.xaml.g.cs
+D:\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Mensajes.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.deps.json
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.dll
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.pdb
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Entrar.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\PanelRegistro.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Editar_Servicio.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Servicios.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Terminales.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Mensajes.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\PresentacionPage.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Servicios.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Terminal.xaml.g.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.dll
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\refint\SoftRapidBus.dll
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.pdb
+C:\Users\Admin\source\repos\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\ref\SoftRapidBus.dll
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.deps.json
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.dll
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.pdb
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.AssemblyReference.cache
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Entrar.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\PanelRegistro.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Editar_Servicio.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Servicios.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Terminales.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Mensajes.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\PresentacionPage.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Servicios.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Terminal.xaml.g.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfoInputs.cache
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfo.cs
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.CoreCompileInputs.cache
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.dll
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\ref\SoftRapidBus.dll
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.pdb
+C:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\refint\SoftRapidBus.dll
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.deps.json
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.dll
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\bin\Debug\netstandard2.0\SoftRapidBus.pdb
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.AssemblyReference.cache
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Entrar.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\PanelRegistro.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Editar_Servicio.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Servicios.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Listar_Terminales.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Mensajes.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\PresentacionPage.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Servicios.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\Vista\Registrar_Terminal.xaml.g.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfoInputs.cache
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.AssemblyInfo.cs
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.csproj.CoreCompileInputs.cache
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.dll
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\refint\SoftRapidBus.dll
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\SoftRapidBus.pdb
+D:\VI SEMESTRE - BLACKBOARD\SoftRapidBus\SoftRapidBus\SoftRapidBus\obj\Debug\netstandard2.0\ref\SoftRapidBus.dll
